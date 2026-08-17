@@ -377,7 +377,7 @@ docker build -t xiaomusic .
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hanxi/xiaomusic&type=Date)](https://star-history.com/#hanxi/xiaomusic&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=hanxi/xiaomusic&type=Date)](https://star-history.dera.page/#hanxi/xiaomusic&Date)
 
 ## License
 
